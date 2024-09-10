@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Poppins;
+    src: url(fonty/Poppins-Regular.ttf);
+    font-weight: normal;
+}
 body {
     margin: 0;
     display: flex;
@@ -8,7 +13,7 @@ body {
 
 }
 #calculator {
-    font-family: monospace;
+    font-family: "Handjet" ;
     background-color: rgb(28, 28, 28);
     border-radius: 15px;
     max-width: 500px;
